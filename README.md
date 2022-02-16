@@ -4,7 +4,8 @@
 
 Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-008?style=for-the-badge&logo=java&logoColor=00FFFF)
-![Selenide](https://img.shields.io/badge/-Selenide-008?style=for-the-badge&logo=selenide&logoColor=47C5FB)
+![Java](https://img.shields.io/badge/-Java-008?style=for-the-badge&logo=java&logoColor=00aaff)
+![Selenide](https://img.shields.io/badge/-Selenide-008?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aletcas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
