@@ -10,6 +10,8 @@ Languages and Tools
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aletcas&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
+***
+
 ## Применяемые технологии и инструменты       :pushpin:
 
 <p  align="center"
@@ -25,3 +27,9 @@ Languages and Tools
 <code><img width="7%" title="Allure TestOps" src="logo/Allure_TO.svg"></code>
 <code><img width="7%" title="Selenoid" src="logo/Selenoid.svg"></code>
 </p>
+
+***
+
+<p align="center">
+<code><img width="90%" title="diplom" src="logo/diplom.png"></code>
+</p> 
